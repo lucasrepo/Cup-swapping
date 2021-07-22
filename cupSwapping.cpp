@@ -4,7 +4,7 @@ once I finish swapping the cup, the swaps will be given to you as an array
 */
 #include <iostream>
 #include <string>
-#include "cupSwaping.h"
+#include "cupSwapping.h"
 
 int main()
 {
