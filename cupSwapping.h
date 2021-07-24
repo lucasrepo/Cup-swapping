@@ -12,6 +12,7 @@ char cupPositionSwapping(const std::vector<char> &cupPosition, char ball)
 		/*Si los numeros NO son iguales, compara*/
 		if(cupPosition.at(i) != cupPosition.at(z))
 		{
+			//ball = ball == cupṔosition.at(i) ? cupPosition.at(z) : cupPosition.at(i);
 			/*Si la pelota se encuentra en i*/
 			if(ball == cupPosition.at(i))
 			{
